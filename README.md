@@ -1,6 +1,8 @@
 # Its a SHARK... with a LASER ... ON THE TERMINAL
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lNqhIBe_k8Q" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lNqhIBe_k8Q
+" target="_blank"><img src="http://img.youtube.com/vi/lNqhIBe_k8Q/0.jpg" 
+alt="Terminal Shark Video" width="560" height="315" border="10" frameborder="0" allowfullscreen /></a>
 
 Huge thank you to Mahdi Dibaiee for sharing his original node-games project.
 
