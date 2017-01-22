@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/secretsignal/ggj2017.git"
   },
+  "engines": {
+        "node": ">= 0.5.0"
+    },
+    "bin": "index.js",
   "keywords": [
     "sharks",
     "lasers",

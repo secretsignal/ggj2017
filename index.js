@@ -1,6 +1,6 @@
+#!/usr/bin/env node
+
 'use strict';
-
-
 
   var _unit = require('./classes/unit');
 
