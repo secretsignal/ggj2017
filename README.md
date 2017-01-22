@@ -7,7 +7,5 @@ If this game catches anyone's attention I recommend checking out his project: ht
 
 # To Use:
 ``` javascript
-    npm install -g shark-laser
-
-    node shark-laser
+    npm install shark-laser
 ```
