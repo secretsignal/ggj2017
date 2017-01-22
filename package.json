@@ -1,6 +1,6 @@
 {
-  "name": "shark-laser",
-  "version": "1.0.8",
+  "name": "terminal-shark",
+  "version": "0.0.1",
   "description": "Created for the Global Game Jam 2017.",
   "main": "index.js",
   "scripts": {
