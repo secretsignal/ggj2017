@@ -1,8 +1,8 @@
 {
   "name": "shark-laser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Created for the Global Game Jam 2017.",
-  "main": "index.js",
+  "main": "shark-laser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
