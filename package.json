@@ -1,0 +1,29 @@
+{
+  "name": "shark-laser",
+  "version": "1.0.0",
+  "description": "Created for the Global Game Jam 2017.  Theme was \"waves\".  Look.. there ARE waves ok?  They're right there up at the top.  And a shark... with a laser.  What do you want from me?  Do you want to kill ascii squids from the convienience of your terminal window?  Ok FINE.  Now you can.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secretsignal/ggj2017.git"
+  },
+  "keywords": [
+    "sharks",
+    "lasers",
+    "terminal",
+    "node",
+    "npm"
+  ],
+  "author": "Nicholas Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secretsignal/ggj2017/issues"
+  },
+  "homepage": "https://github.com/secretsignal/ggj2017#readme",
+  "dependencies": {
+    "ansi": "^0.3.1"
+  }
+}
