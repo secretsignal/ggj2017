@@ -4,17 +4,15 @@
 " target="_blank"><img src="http://img.youtube.com/vi/lNqhIBe_k8Q/0.jpg" 
 alt="Terminal Shark Video" width="560" height="315" border="10" frameborder="0" allowfullscreen /></a>
 
-Huge thank you to Mahdi Dibaiee for sharing his original node-games project.
+## First of all,
+I want to give a huge shout out to Mahdi Dibaiee!  
+If you find this game interesting, please check out his "node-games" project on github.
 
-This is a dirty hack of his excellent node-games project.
-I recommend checking out his project: https://github.com/mdibaiee/node-games
+link: https://github.com/mdibaiee/node-games
+
 
 ## Notes
-This works for me, on my mac, using both iterm 2 and terminal.
-This will _probably_ not work on windows.
-Possibly will work on linux.
-
-Good luck!
+This works for me, on my mac. YMMV.
 
 ## To Install:
 
