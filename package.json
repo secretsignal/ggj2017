@@ -1,7 +1,7 @@
 {
   "name": "shark-laser",
-  "version": "1.0.0",
-  "description": "Created for the Global Game Jam 2017.  Theme was \"waves\".  Look.. there ARE waves ok?  They're right there up at the top.  And a shark... with a laser.  What do you want from me?  Do you want to kill ascii squids from the convienience of your terminal window?  Ok FINE.  Now you can.",
+  "version": "1.0.1",
+  "description": "Created for the Global Game Jam 2017.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
