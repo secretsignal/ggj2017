@@ -7,7 +7,7 @@ alt="Terminal Shark Video" width="560" height="315" border="10" frameborder="0" 
 Huge thank you to Mahdi Dibaiee for sharing his original node-games project.
 
 This is a dirty hack of his excellent node-games project.
-If this game catches anyone's attention I recommend checking out his project: https://github.com/mdibaiee/node-games
+I recommend checking out his project: https://github.com/mdibaiee/node-games
 
 ## Notes
 This works for me, on my mac, using both iterm 2 and terminal.
